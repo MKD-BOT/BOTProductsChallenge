@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "882977235232",
+    "firebase_url": "https://botchallenge-2e69e.firebaseio.com",
+    "project_id": "botchallenge-2e69e",
+    "storage_bucket": "botchallenge-2e69e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882977235232:android:f1aef2f7177c0f4bb27745",
+        "android_client_info": {
+          "package_name": "com.storeproductschallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882977235232-mtfs8t24fq3ququi661m10gl5sjh4ahj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCVD6YwIemv8yBO4ICxfYkt9BlN7i3Ndc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882977235232-mtfs8t24fq3ququi661m10gl5sjh4ahj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
